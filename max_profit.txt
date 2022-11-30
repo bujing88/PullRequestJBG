@@ -9,5 +9,7 @@ def maxProfit_bruteforce (prices):
 
 if __name__ == "__main__":
 	list = [3, 5, 10, 2]
+	list1 = []
 	maxProfit_bruteforce(list)
+
 
